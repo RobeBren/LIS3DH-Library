@@ -1,0 +1,7 @@
+{
+    "name": "BR_LIS3DH-Library",
+    "version": "1.0.0",
+    "description": "C++ driver for the LIS3DH Triple-Axis Accelerometer",
+    "frameworks": ["arduino"],
+    "platforms": "*"
+}
